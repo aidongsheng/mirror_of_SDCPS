@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;flora_of_china&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../bootstrap_test" />
+      <root url="file://$PROJECT_DIR$/../form" />
+      <root url="file://$PROJECT_DIR$/../官网demo" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../admin_demo" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../hprose_demo" />
+      <root url="file://$PROJECT_DIR$/../node_modules" />
+      <root url="file://$PROJECT_DIR$/../dsai" />
+      <root url="file://$PROJECT_DIR$/../app" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../bootstrap_test" />
+      <root url="file://$PROJECT_DIR$/../form" />
+      <root url="file://$PROJECT_DIR$/../官网demo" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../admin_demo" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../hprose_demo" />
+      <root url="file://$PROJECT_DIR$/../node_modules" />
+      <root url="file://$PROJECT_DIR$/../dsai" />
+      <root url="file://$PROJECT_DIR$/../app" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
