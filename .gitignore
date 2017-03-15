@@ -1,0 +1,3 @@
+./query-flora-name/*
+!./query-flora-name/flora_name.db
+!./query-flora-name/query_model.py
